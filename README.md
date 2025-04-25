@@ -16,6 +16,7 @@
 * [客户端](#客户端)
 * [常见问题](#常见问题)
 * [打赏](#打赏)
+* [交流](#交流)
 * 未完待续...
 
 ## 环境安装
@@ -141,3 +142,9 @@ bin\mongod --dbpath data
 ## 客户端
 ## 常见问题
 ## 打赏
+![image](https://github.com/zhaoshiyu101107/GenshinImpact-grasscutter/blob/main/image/zanshang/q.jpg)
+![image](https://github.com/zhaoshiyu101107/GenshinImpact-grasscutter/blob/main/image/zanshang/z.jpg)
+![image](https://github.com/zhaoshiyu101107/GenshinImpact-grasscutter/blob/main/image/zanshang/w.jpg)
+## 交流
+* [QQ群聊](https://qm.qq.com/q/XUafaalJCs)
+* [Telegram](https://t.me/+AbwKiMwOk6MxY2U9)
