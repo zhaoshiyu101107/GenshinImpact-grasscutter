@@ -13,8 +13,8 @@
 
 * [环境安装](#环境安装)
 * [服务端](#服务端配置)
-* [客户端](#客户端)
-* [常见问题](#常见问题)
+* [客户端（未完成）](#客户端)
+* [常见问题（未完成）](#常见问题)
 * [打赏](#打赏)
 * [交流](#交流)
 * 未完待续...
@@ -140,7 +140,9 @@ bin\mongod --dbpath data
 极为服务端启动成功
 
 ## 客户端
+未完成
 ## 常见问题
+未完成
 ## 打赏
 ![image](https://github.com/zhaoshiyu101107/GenshinImpact-grasscutter/blob/main/image/zanshang/q.jpg)
 ![image](https://github.com/zhaoshiyu101107/GenshinImpact-grasscutter/blob/main/image/zanshang/z.jpg)
